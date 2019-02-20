@@ -1,0 +1,84 @@
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\bin\Debug\SalaryBySurasak.exe
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\bin\Debug\SalaryBySurasak.pdb
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\bin\Debug\SalaryBySurasak.xml
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.Resources.resources
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.vbproj.GenerateResource.Cache
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.exe
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.xml
+c:\users\kk\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.pdb
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab2.resources
+C:\Users\KK\Documents\Visual Studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.FrmLab3.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmJob4.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab5.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice1.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice2.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice3.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab1.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice4.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice5.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmJob6.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab7.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice6.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice7.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab8.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice8.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab10.resources
+C:\Users\KK\documents\visual studio 2010\Projects\SalaryBySurasak\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice10.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.exe
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.xml
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.pdb
+D:\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.exe
+D:\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.pdb
+D:\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.xml
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmJob6.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab1.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab10.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab2.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab3.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmJob4.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab5.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab7.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab8.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice1.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice10.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice2.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice3.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice4.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice5.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice6.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice7.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice8.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.Resources.resources
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.vbproj.GenerateResource.Cache
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice11.resources
+D:\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.exe.config
+D:\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab11.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.exe.config
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.exe
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.xml
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.pdb
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.exe
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.pdb
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\bin\Debug\SalaryBySurasak.xml
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmJob6.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab1.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab10.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab11.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab2.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab3.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmJob4.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab5.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab7.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab8.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice1.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice10.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice11.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice2.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice3.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice4.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice5.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice6.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice7.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice8.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.Resources.resources
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.vbproj.GenerateResource.Cache
