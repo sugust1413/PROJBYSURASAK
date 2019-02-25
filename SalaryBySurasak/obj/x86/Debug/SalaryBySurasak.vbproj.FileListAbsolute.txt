@@ -82,3 +82,4 @@ C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\
 C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmPractice8.resources
 C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.Resources.resources
 C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.vbproj.GenerateResource.Cache
+C:\Users\DreamFunWan\Documents\Visual Studio 2010\Projects\ProjectVBSura-master\SalaryBySurasak\obj\x86\Debug\SalaryBySurasak.frmLab12.resources
