@@ -41,13 +41,15 @@ Partial Class frmLab12
         Me.txtEmpSalary = New System.Windows.Forms.TextBox()
         Me.btnSave = New System.Windows.Forms.Button()
         Me.btnCancel = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
-        Me.Button4 = New System.Windows.Forms.Button()
-        Me.Button5 = New System.Windows.Forms.Button()
-        Me.Button6 = New System.Windows.Forms.Button()
+        Me.btnInsert = New System.Windows.Forms.Button()
+        Me.btnUpdate = New System.Windows.Forms.Button()
+        Me.btnDelete = New System.Windows.Forms.Button()
+        Me.btnClose = New System.Windows.Forms.Button()
         Me.panEmp = New System.Windows.Forms.Panel()
+        Me.panDgv = New System.Windows.Forms.Panel()
         CType(Me.DgvEmp, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.panEmp.SuspendLayout()
+        Me.panDgv.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label1
@@ -62,10 +64,15 @@ Partial Class frmLab12
         '
         'DgvEmp
         '
+        Me.DgvEmp.AllowUserToAddRows = False
+        Me.DgvEmp.AllowUserToDeleteRows = False
+        Me.DgvEmp.AllowUserToResizeColumns = False
+        Me.DgvEmp.AllowUserToResizeRows = False
         Me.DgvEmp.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DgvEmp.Location = New System.Drawing.Point(26, 46)
+        Me.DgvEmp.Location = New System.Drawing.Point(75, 14)
         Me.DgvEmp.Name = "DgvEmp"
-        Me.DgvEmp.Size = New System.Drawing.Size(689, 312)
+        Me.DgvEmp.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.DgvEmp.Size = New System.Drawing.Size(540, 312)
         Me.DgvEmp.TabIndex = 1
         '
         'Label2
@@ -231,50 +238,50 @@ Partial Class frmLab12
         Me.btnCancel.Text = "Cancel"
         Me.btnCancel.UseVisualStyleBackColor = True
         '
-        'Button3
+        'btnInsert
         '
-        Me.Button3.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(77, 530)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(130, 38)
-        Me.Button3.TabIndex = 3
-        Me.Button3.Text = "เพิ่ม"
-        Me.Button3.UseVisualStyleBackColor = False
+        Me.btnInsert.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.btnInsert.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnInsert.Location = New System.Drawing.Point(77, 530)
+        Me.btnInsert.Name = "btnInsert"
+        Me.btnInsert.Size = New System.Drawing.Size(130, 38)
+        Me.btnInsert.TabIndex = 3
+        Me.btnInsert.Text = "เพิ่ม"
+        Me.btnInsert.UseVisualStyleBackColor = False
         '
-        'Button4
+        'btnUpdate
         '
-        Me.Button4.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Button4.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.Location = New System.Drawing.Point(230, 530)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(130, 38)
-        Me.Button4.TabIndex = 3
-        Me.Button4.Text = "แก้ไข"
-        Me.Button4.UseVisualStyleBackColor = False
+        Me.btnUpdate.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.btnUpdate.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnUpdate.Location = New System.Drawing.Point(230, 530)
+        Me.btnUpdate.Name = "btnUpdate"
+        Me.btnUpdate.Size = New System.Drawing.Size(130, 38)
+        Me.btnUpdate.TabIndex = 3
+        Me.btnUpdate.Text = "แก้ไข"
+        Me.btnUpdate.UseVisualStyleBackColor = False
         '
-        'Button5
+        'btnDelete
         '
-        Me.Button5.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Button5.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(388, 530)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(130, 38)
-        Me.Button5.TabIndex = 3
-        Me.Button5.Text = "ลบ"
-        Me.Button5.UseVisualStyleBackColor = False
+        Me.btnDelete.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.btnDelete.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnDelete.Location = New System.Drawing.Point(388, 530)
+        Me.btnDelete.Name = "btnDelete"
+        Me.btnDelete.Size = New System.Drawing.Size(130, 38)
+        Me.btnDelete.TabIndex = 3
+        Me.btnDelete.Text = "ลบ"
+        Me.btnDelete.UseVisualStyleBackColor = False
         '
-        'Button6
+        'btnClose
         '
-        Me.Button6.BackColor = System.Drawing.Color.Black
-        Me.Button6.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button6.ForeColor = System.Drawing.Color.White
-        Me.Button6.Location = New System.Drawing.Point(542, 530)
-        Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(130, 38)
-        Me.Button6.TabIndex = 3
-        Me.Button6.Text = "ออก"
-        Me.Button6.UseVisualStyleBackColor = False
+        Me.btnClose.BackColor = System.Drawing.Color.Black
+        Me.btnClose.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnClose.ForeColor = System.Drawing.Color.White
+        Me.btnClose.Location = New System.Drawing.Point(542, 530)
+        Me.btnClose.Name = "btnClose"
+        Me.btnClose.Size = New System.Drawing.Size(130, 38)
+        Me.btnClose.TabIndex = 3
+        Me.btnClose.Text = "ออก"
+        Me.btnClose.UseVisualStyleBackColor = False
         '
         'panEmp
         '
@@ -302,23 +309,33 @@ Partial Class frmLab12
         Me.panEmp.Size = New System.Drawing.Size(689, 134)
         Me.panEmp.TabIndex = 4
         '
+        'panDgv
+        '
+        Me.panDgv.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.panDgv.Controls.Add(Me.DgvEmp)
+        Me.panDgv.Location = New System.Drawing.Point(28, 37)
+        Me.panDgv.Name = "panDgv"
+        Me.panDgv.Size = New System.Drawing.Size(687, 340)
+        Me.panDgv.TabIndex = 5
+        '
         'frmLab12
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(741, 590)
+        Me.Controls.Add(Me.panDgv)
         Me.Controls.Add(Me.panEmp)
-        Me.Controls.Add(Me.Button6)
-        Me.Controls.Add(Me.Button5)
-        Me.Controls.Add(Me.Button4)
-        Me.Controls.Add(Me.Button3)
-        Me.Controls.Add(Me.DgvEmp)
+        Me.Controls.Add(Me.btnClose)
+        Me.Controls.Add(Me.btnDelete)
+        Me.Controls.Add(Me.btnUpdate)
+        Me.Controls.Add(Me.btnInsert)
         Me.Controls.Add(Me.Label1)
         Me.Name = "frmLab12"
         Me.Text = "frmLab12"
         CType(Me.DgvEmp, System.ComponentModel.ISupportInitialize).EndInit()
         Me.panEmp.ResumeLayout(False)
         Me.panEmp.PerformLayout()
+        Me.panDgv.ResumeLayout(False)
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -342,9 +359,10 @@ Partial Class frmLab12
     Friend WithEvents txtEmpAdress As System.Windows.Forms.TextBox
     Friend WithEvents txtEmpName As System.Windows.Forms.TextBox
     Friend WithEvents txtEmpSalary As System.Windows.Forms.TextBox
-    Friend WithEvents Button3 As System.Windows.Forms.Button
-    Friend WithEvents Button4 As System.Windows.Forms.Button
-    Friend WithEvents Button5 As System.Windows.Forms.Button
-    Friend WithEvents Button6 As System.Windows.Forms.Button
+    Friend WithEvents btnInsert As System.Windows.Forms.Button
+    Friend WithEvents btnUpdate As System.Windows.Forms.Button
+    Friend WithEvents btnDelete As System.Windows.Forms.Button
+    Friend WithEvents btnClose As System.Windows.Forms.Button
     Friend WithEvents panEmp As System.Windows.Forms.Panel
+    Friend WithEvents panDgv As System.Windows.Forms.Panel
 End Class
